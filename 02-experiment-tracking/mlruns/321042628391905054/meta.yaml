@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/321042628391905054
+creation_time: 1716292451705
+experiment_id: '321042628391905054'
+last_update_time: 1716292451705
+lifecycle_stage: active
+name: tax-regression
