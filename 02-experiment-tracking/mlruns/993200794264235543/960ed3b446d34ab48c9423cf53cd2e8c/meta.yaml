@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993200794264235543/960ed3b446d34ab48c9423cf53cd2e8c/artifacts
+end_time: 1716729402913
+entry_point_name: ''
+experiment_id: '993200794264235543'
+lifecycle_stage: active
+run_id: 960ed3b446d34ab48c9423cf53cd2e8c
+run_name: clumsy-carp-763
+run_uuid: 960ed3b446d34ab48c9423cf53cd2e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716729398897
+status: 3
+tags: []
+user_id: codespace

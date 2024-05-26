@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993200794264235543/851bcc0de2ed43f1acdede19cc320d74/artifacts
+end_time: 1716728893214
+entry_point_name: ''
+experiment_id: '993200794264235543'
+lifecycle_stage: active
+run_id: 851bcc0de2ed43f1acdede19cc320d74
+run_name: calm-lark-826
+run_uuid: 851bcc0de2ed43f1acdede19cc320d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716728892310
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993200794264235543/94c7f71ad7954f59ba9757f54d0d31ce/artifacts
+end_time: 1716728883614
+entry_point_name: ''
+experiment_id: '993200794264235543'
+lifecycle_stage: active
+run_id: 94c7f71ad7954f59ba9757f54d0d31ce
+run_name: debonair-toad-513
+run_uuid: 94c7f71ad7954f59ba9757f54d0d31ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716728874864
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993200794264235543/87b1499371e44a66bb10afaa1688eb83/artifacts
+end_time: 1716729424202
+entry_point_name: ''
+experiment_id: '993200794264235543'
+lifecycle_stage: active
+run_id: 87b1499371e44a66bb10afaa1688eb83
+run_name: awesome-crane-907
+run_uuid: 87b1499371e44a66bb10afaa1688eb83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716729418277
+status: 3
+tags: []
+user_id: codespace

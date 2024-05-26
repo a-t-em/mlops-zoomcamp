@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993200794264235543/88fe8038b19545c6b0aad792880507d8/artifacts
+end_time: 1716728898524
+entry_point_name: ''
+experiment_id: '993200794264235543'
+lifecycle_stage: active
+run_id: 88fe8038b19545c6b0aad792880507d8
+run_name: orderly-midge-659
+run_uuid: 88fe8038b19545c6b0aad792880507d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716728893220
+status: 3
+tags: []
+user_id: codespace

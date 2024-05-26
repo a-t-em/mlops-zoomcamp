@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993200794264235543/24b8f52e9b6d420ea2fff4ec9cba6507/artifacts
+end_time: 1716728909259
+entry_point_name: ''
+experiment_id: '993200794264235543'
+lifecycle_stage: active
+run_id: 24b8f52e9b6d420ea2fff4ec9cba6507
+run_name: persistent-whale-201
+run_uuid: 24b8f52e9b6d420ea2fff4ec9cba6507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716728906441
+status: 3
+tags: []
+user_id: codespace

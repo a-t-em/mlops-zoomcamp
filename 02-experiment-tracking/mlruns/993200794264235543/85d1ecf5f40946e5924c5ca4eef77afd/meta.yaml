@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993200794264235543/85d1ecf5f40946e5924c5ca4eef77afd/artifacts
+end_time: 1716728906436
+entry_point_name: ''
+experiment_id: '993200794264235543'
+lifecycle_stage: active
+run_id: 85d1ecf5f40946e5924c5ca4eef77afd
+run_name: respected-moose-271
+run_uuid: 85d1ecf5f40946e5924c5ca4eef77afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716728903006
+status: 3
+tags: []
+user_id: codespace
